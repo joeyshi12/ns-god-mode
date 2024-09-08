@@ -2,5 +2,8 @@
     "name": "GodMode",
     "version_number": "0.1.0",
     "website_url": "https://github.com/joeyshi12/ns-god-mode",
-    "description": "Nine Sols on super easy mode."
+    "description": "Nine Sols on super easy mode.",
+    "dependencies": [
+        "BepInEx-BepInExPack-5.4.2100"
+    ]
 }
